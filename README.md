@@ -1,3 +1,7 @@
+![GithubBanner](https://user-images.githubusercontent.com/78870476/135733047-c5d66c43-c4d7-4eed-a860-8ce570a332d0.png)
+---
+
+
 # NitroTool-Linux
 ESTE SCRIPT ESCRITO EN PYTHON **FUNCIONA TANTO EN GNU/LINUX COMO WINDOWS**.
 
