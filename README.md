@@ -41,5 +41,5 @@ Una vez situados en el directorio donde se encuentra NitroTools.py procederemos 
 
 ---
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78870476/135733610-ecc63302-2386-45dd-8f46-27fd137a8d79.png" alt="HackingEspaña_transparente" />
+  <img src="https://user-images.githubusercontent.com/78870476/135733800-c572c1b0-71aa-4158-886e-1f737a2e51b4.png" alt="HackingEspaña_transparente" />
 </p>
