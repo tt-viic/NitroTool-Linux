@@ -9,7 +9,7 @@ ESTE SCRIPT ESCRITO EN PYTHON **FUNCIONA TANTO EN GNU/LINUX COMO WINDOWS**.
 > En el caso de que te encuentres en Windows recomiendo que emplees mejor el siguiente repositorio _https://github.com/tt-viic/NitroTool-Windows/_
 
 
-Nos permitirá generar códigos de regalo de [Discord Nitro](https://discord.com/nitro) y comprobar si son válidos, ten en cuenta que el chance de obtener un link de Discord Nitro válido es extremadamente bajo ya que ha de coincidir con uno activo (**nota:** los códigos de Discord Nitro no suelen estar mucho tiempo activos ya que tienen fecha de caducidad (48h) y la persona que ha sido obsequiada con ese link de Discord Nitro lo suele reclamar en muy poco tiempo). 
+Nos permitirá generar códigos de regalo de [Discord Nitro](https://discord.com/nitro) y comprobar si son válidos, ten en cuenta que las probabilidades de obtener un link de Discord Nitro válido es extremadamente bajo ya que ha de coincidir con uno activo (**nota:** los códigos de Discord Nitro no suelen estar mucho tiempo activos ya que tienen fecha de caducidad (48h) y la persona que ha sido obsequiada con ese link de Discord Nitro lo suele reclamar en muy poco tiempo). 
 
 
 
