@@ -17,23 +17,36 @@ Nos permitirá generar códigos de regalo de [Discord Nitro](https://discord.com
 Para que la terminal pueda ejecutar el script, tendremos que tener descargado [Python](https://www.python.org/) y su sistema de gestión de paquetes [pip](https://pypi.org/project/pip/) a partir de la versión 3.8.0 o superior. 
 > para comprobar la versión de Python que tiene instalada ejecuta en terminal `python --version`
 
-Deberás instalar los requerimientos del programa, [requests](https://docs.python-requests.org/en/latest/) para ello ejecute en la terminal `pip install requests`
+Deberás instalar los requerimientos del programa, [requests](https://docs.python-requests.org/en/latest/) para ello ejecute en la terminal `pip install -r requirements.txt`
+
+Las librerías que se descargarán son:
+ - art
+ - requests
+
+A continuación le dejo la forma de instalación de cada librería en particular.
+
+| Librería | Forma de instalación de cada librería en particular |
+| --- | --- |
+| art | `pip install art` |
+| requests | `pip install requests` |
+
 
 ## EJECUCIÓN
 Para ejecutar el script ha de abrir [la terminal](https://www.neoguias.com/como-abrir-terminal-ubuntu/#:~:text=tecla%20de%20funci%C3%B3n-,Abre%20una%20terminal%20Linux%20usando%20Ctrl%20%2B%20Alt%20%2B%20T,una%20ventana%20de%20la%20Terminal.) y [dirigirse al directorio en el que está el script](https://swcarpentry.github.io/shell-novice-es/02-filedir/index.html#:~:text=El%20comando%20para%20cambiar%20de,de%20en%20qu%C3%A9%20directorio%20estamos.), por ejemplo, si se encuentra el script en Descargas copie `cd Downloads` si tiene el sistema operativo en inglés o `cd Descargas` si lo tiene en español.
-Una vez situados en el directorio donde se encuentra NitroTools.py procederemos a introducir en la terminal `python3 NitroTool_Linux.py` tras esto, el script se ejecutará sin problemas.
+Una vez situados en el directorio donde se encuentra NitroTools.py procederemos a introducir en la terminal `python3 NitroTool-Linux.py` tras esto, el script se ejecutará sin problemas.
 
 
 ## FUNCIONAMIENTO Y UI
 
-![NL-MAIN](https://user-images.githubusercontent.com/78870476/135733584-dd509710-b64a-45c5-a12f-bd631469aed2.png)
+![main](https://user-images.githubusercontent.com/78870476/135848924-7b784a5b-e834-4b6e-930e-f6e98e7d58fd.png)
 
-![NL-MAINL](https://user-images.githubusercontent.com/78870476/135733585-4ff08021-dd99-46f1-aa9b-9f17d53f1529.png)
+![Linux](https://user-images.githubusercontent.com/78870476/135848889-6c528aef-12d9-4bea-a59e-4cacc2158829.png)
 
-![NL-W1](https://user-images.githubusercontent.com/78870476/135733586-6ff9bf76-6c41-40c7-a59b-428c0e84f420.png)
+![Windows1](https://user-images.githubusercontent.com/78870476/135848957-9f998b04-d1dd-4977-946c-4037860834eb.png)
 
+![Windows2](https://user-images.githubusercontent.com/78870476/135848963-7386e731-68ef-47f9-a57c-1d9ae7a785fc.png)
 
-
+![WIndows3](https://user-images.githubusercontent.com/78870476/135848967-42a6e2f4-2f82-402b-86a1-fa140eb8de3f.png)
 
 ## CONTACTO/SUGERENCIAS
 
