@@ -33,7 +33,7 @@ A continuación le dejo la forma de instalación de cada librería en particular
 
 ## EJECUCIÓN
 Para ejecutar el script ha de abrir [la terminal](https://www.neoguias.com/como-abrir-terminal-ubuntu/#:~:text=tecla%20de%20funci%C3%B3n-,Abre%20una%20terminal%20Linux%20usando%20Ctrl%20%2B%20Alt%20%2B%20T,una%20ventana%20de%20la%20Terminal.) y [dirigirse al directorio en el que está el script](https://swcarpentry.github.io/shell-novice-es/02-filedir/index.html#:~:text=El%20comando%20para%20cambiar%20de,de%20en%20qu%C3%A9%20directorio%20estamos.), por ejemplo, si se encuentra el script en Descargas copie `cd Downloads` si tiene el sistema operativo en inglés o `cd Descargas` si lo tiene en español.
-Una vez situados en el directorio donde se encuentra NitroTools.py procederemos a introducir en la terminal `python3 NitroTool-Linux.py` tras esto, el script se ejecutará sin problemas.
+Una vez situados en el directorio donde se encuentra NitroTools-linux.py procederemos a introducir en la terminal `python3 NitroTools-linux.py` tras esto, el script se ejecutará sin problemas.
 
 
 ## FUNCIONAMIENTO Y UI
