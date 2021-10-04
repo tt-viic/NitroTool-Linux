@@ -213,7 +213,7 @@ def check():
     
 def creditos():
     clear()
-    print('{}{}   CREDITOS   {}'.format(bgMagenta,fgBlack,reset))
+    print('{}{}   CRÉDITOS   {}'.format(bgMagenta,fgBlack,reset))
     print('''
 
             {}Verduxo    ayuda + apoyo   {}https://github.com/Verduxo{}
